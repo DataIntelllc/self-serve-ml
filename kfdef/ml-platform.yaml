@@ -122,6 +122,6 @@ spec:
     - name: kf-manifests
       uri: https://github.com/kubeflow/manifests/archive/v1.2-branch.tar.gz
     - name: manifests
-      uri: <Repo Ref>
+      uri: https://github.com/DataIntelllc/self-serve-ml.git
   version: master
 
